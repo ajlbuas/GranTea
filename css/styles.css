@@ -5,20 +5,22 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	font-family: lust-text, serif;
+font-style: normal;
+font-weight: 300;
+	background-color: #f8eee5;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #f8eee5;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #CEA289;
 }
 
 /* Effect on social media buttons */
@@ -30,6 +32,30 @@ footer a:hover {
 /* Corporate navbar */
 
 #navbar-corporate a.active {
-	color: #800000;
+	color: #000000;
 	font-weight: bold;
 }
+
+.headercolor{
+	color: #CEA289;
+}
+
+.dingdong{
+	color: #603F23;
+}
+
+.colorbutton{
+	color: #9B6B43;
+
+}
+.bground{
+	background-color: #9B6B43;
+}
+
+.btn{
+	border-color: black;
+	border: thick;
+	
+}
+
+
